@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karthik1841
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @karthik3942
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate 
 
