@@ -28,10 +28,18 @@
 - **LinkedIn:** [Karthik P](https://www.linkedin.com/in/karthik-p-668928255/)  
 
 ---
+### 📊 GitHub Stats
 
-### 📈 GitHub Stats
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik3942&show_icons=true&theme=radical)  
+<!-- Overall GitHub stats -->
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik3942&show_icons=true&count_private=true&theme=radical&hide=issues)
 
----
+<!-- Top Languages used -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik3942&layout=compact&theme=radical)
+
+<!-- GitHub Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthik3942&theme=radical&hide_border=false)
+
+<!-- Contribution graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=karthik3942&theme=react-dark&hide_border=false)
 
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
