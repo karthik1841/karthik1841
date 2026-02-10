@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="left">✨ Creating bugs since 2022<br> Goals: To Build humanoid robot<br>🎲 Fun fact: No</p>
+<p align="left">✨ Creating bugs since 2022<br><br></p>
 
 ###
 
